@@ -5,11 +5,11 @@
 ------------
 
 ### Contact information
-**Location:** Minsk, Belarus
-**Phone:** +375 33 351-33-08
-**Email:** viktoriya_ryzhkova_00@mail.ru
-**GitHub:** [vryzhkova](https://github.com/vryzhkova "vryzhkova")
-**Telegram:** [@vryzhkova](https://t.me/vryzhkova)
+**Location:** Minsk, Belarus  
+**Phone:** +375 33 351-33-08  
+**Email:** viktoriya_ryzhkova_00@mail.ru  
+**GitHub:** [vryzhkova](https://github.com/vryzhkova "vryzhkova")  
+**Telegram:** [@vryzhkova](https://t.me/vryzhkova)  
 
 ------------
 
@@ -56,11 +56,11 @@ function solution(str){
  
 - [Hexlet](https://ru.hexlet.io/u/vryzhkova)
 - HTML Academy
-    - [HTML &CSS. Professional Website Coding](https://assets.htmlacademy.ru/certificates/intensive/193/1620049.pdf)
+    - [HTML &CSS. Professional Website Coding](https://assets.htmlacademy.ru/certificates/intensive/193/1620049.pdf)  
    Graduate project - [Nerds](https://github.com/vryzhkova/1620049-nerds-30 "Nerds")
-    - [HTML &CSS. Adaptive Website Coding and Automation](https://assets.htmlacademy.ru/certificates/intensive/199/1620049.pdf)
+    - [HTML &CSS. Adaptive Website Coding and Automation](https://assets.htmlacademy.ru/certificates/intensive/199/1620049.pdf)  
    Graduate project - [Pink](https://github.com/vryzhkova/1620049-pink-22)
-    - [JavaScript. Professional Development of Web Interfaces](https://assets.htmlacademy.ru/certificates/intensive/205/1620049.pdf)
+    - [JavaScript. Professional Development of Web Interfaces](https://assets.htmlacademy.ru/certificates/intensive/205/1620049.pdf)  
      Graduate project - [Kekstagram](https://vryzhkova.github.io/1620049-kekstagram-23/ "Kekstagram")
 - JS, CSS, HTML, Git video courses on YouTube channel Glo Academy
     - [Need for Speed](https://github.com/vryzhkova/nfs-js)
@@ -72,17 +72,17 @@ function solution(str){
 ------------
 
 ### Education
-- Vitebsk State University of Technology, 2016
+- Vitebsk State University of Technology, 2016  
   "Finance and credit", Faculty of Economics and Business Management 
-- Vitebsk State University of Technology, 2017
+- Vitebsk State University of Technology, 2017  
   "Examinations of consumer goods", Faculty of Advanced Training and Retraining
 
 ------------
 
 ### Languages
-Belarusian - Native
-Russian — C2 - Perfect
-English - A2 - Pre-Intermediate
+Belarusian - Native  
+Russian — C2 - Perfect  
+English - A2 - Pre-Intermediate  
 
 ------------
 
