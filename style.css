@@ -67,8 +67,13 @@ ul {
     margin-right: 50px;
 }
 
+
 .user-block__contacts-item {
     margin-bottom: 10px;
+}
+
+.user-block__contacts-list-icons {
+    display: flex;
 }
 
 .user-block__contacts-icons-items {
