@@ -1,0 +1,240 @@
+/* global */
+
+img {
+    max-width: 100%;
+    object-fit: contain;
+}
+
+a {
+    text-decoration: none;
+    color: #003b46 !important;
+}
+
+a:hover {
+    border-bottom: 1px solid white;
+    color: #66a5ad;
+}
+
+li {
+    list-style: none;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    box-sizing: border-box;
+    margin: 30px 120px;
+    box-shadow: -5px 5px 20px 5px rgb(34 60 80 / 30%);
+}
+
+.body {
+    margin: 0;
+    padding: 0;
+    font-family: "Open Sans", "Arial", sans-serif;
+    color: #003b46;
+}
+
+.box {
+    padding: 0 30px;
+}
+
+/* header */
+
+.header {
+    background-color: #c4dfe6;
+}
+
+.user-block {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.user-block__name {
+    font-size: 40px;
+    line-height: 50px;
+}
+
+.user-block__position {
+    font-size: 25px;
+}
+
+.user-block__contacts {
+    margin-right: 50px;
+}
+
+.user-block__contacts-item {
+    margin-bottom: 10px;
+}
+
+.user-block__contacts-icons-items {
+    margin-right: 20px;
+}
+
+.user-block__tel-link {
+    color: #003b46;
+}
+
+.user-block__tel-link:hover {
+    color: white;
+}
+
+.user-block__contacts-title {
+    border-bottom: 1px solid #003b46;
+    font-size: 25px;
+}
+
+.cv-skills__title,
+.cv-education__title,
+.cv-languages__title {
+    border-bottom: 1px solid #c4dfe6;
+    font-size: 25px;
+}
+
+.user-block__contacts-icons {
+    display: flex;
+}
+
+.user-block__avatar {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.user-block__img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.user-block__github-svg,
+.user-block__email-svg,
+.user-block__telegram-svg
+{
+    width: 30px;
+    height: 30px;
+}
+
+/* main */
+
+.main {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+}
+
+ /* block-left */
+
+.block-left {
+    background-color: #07575b;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: #c4dfe6
+}
+
+.block-right {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.cv-skills,
+.cv-education,
+.cv-languages {
+    margin-bottom: 30px;
+}
+
+.cv-skills__list-item,
+.cv-education__list-item,
+.cv-languages__item {
+    position: relative;
+    margin-bottom: 7px;
+    font-size: 14px;
+    line-height: 25px;
+    margin-left: 20px;
+}
+
+.cv-skills__list-item::before,
+.cv-education__list-item::before,
+.cv-languages__item::before {
+    content: "";
+    position: absolute;
+    left: -15px;
+    top: 12px;
+    display: block;
+    height: 4px;
+    width: 4px;
+    background-color: #c4dfe6;
+    border-radius: 100%;
+}
+
+ /* block-right */
+
+.cv-about__me-title,
+.cv-work__title,
+.cv-code__title {
+    border-bottom: 1px solid #003b46;
+    font-size: 25px;
+}
+
+.academy-list {
+    margin-top: 7px;
+}
+
+.academy-list-item-text {
+    margin-top: 7px;
+}
+
+.cv-work__list-item {
+    font-size: 25px;
+    background-color: #effbff;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.academy-list-item,
+.glo-academy-list__item {
+    margin-bottom: 15px;
+    margin-left: 30px;
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+.cv-about__me-text {
+    font-size: 16px;
+}
+
+.cv-code__block {
+    overflow: auto;
+    background-color: #4a6268;
+    color: #ffffff;
+    padding: 0 20px;
+    font-size: 15px;
+}
+
+/* footer */
+
+.footer {
+    background-color: #c4dfe6;
+}
+
+.footer-info {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.footer-info__user-svg {
+    width: 50px;
+    height: 50px;
+}
+
+.footer-info__school-svg {
+    width: 100px;
+    height: 50px;
+}
