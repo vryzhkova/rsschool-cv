@@ -52,7 +52,7 @@ function solution(str){
 ```
 ------------
 
- ### Work experience
+### Work experience
  
 - [Hexlet](https://ru.hexlet.io/u/vryzhkova)
 - HTML Academy
